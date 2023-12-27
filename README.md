@@ -82,11 +82,14 @@ To upgrade the contract:
 ## Additional Resources
 
 - Test contract address on Goerli: [https://goerli.etherscan.io/token/0x33.....](https://goerli.etherscan.io/token/0x33.....)
-- Read the "notes" file in the repository for more detailed information.
 
 ## License
 
-[Specify the license under which your project is released]
+[@denizumutdereli](https://www.linkedin.com/in/denizumutdereli/)
+
+## Contributors
+
+
 
 ## Contributors
 
