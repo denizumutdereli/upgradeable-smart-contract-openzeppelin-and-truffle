@@ -85,12 +85,4 @@ To upgrade the contract:
 
 ## License
 
-[@denizumutdereli](https://www.linkedin.com/in/denizumutdereli/)
-
-## Contributors
-
-
-
-## Contributors
-
-[List of contributors and their contact information, if applicable]
+[@denizumutdereli](https://www.linkedin.com/in/denizumutdereli)
